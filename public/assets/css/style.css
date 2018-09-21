@@ -1,0 +1,33 @@
+.save {
+    display: block;
+    width: 120px;
+    height: 40px; 
+}
+.card {
+    margin-bottom: 10px;
+}
+.add-comment {
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.comment-area {
+    height: 100px;
+    width: 400px;
+    margin-left: 20px;
+}
+
+.comments {
+    height: 40px;
+    width: 30px;
+    margin-top: 30px;
+    margin-left: 10px; 
+}
+
+#comment-row {
+    width: 100%;
+}
+
+.fancy {
+    border-bottom: 1px solid black;
+    width: 100px;
+}
